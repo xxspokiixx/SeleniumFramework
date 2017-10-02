@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Ebay">
+  <test name="TestNG_Test_Script">
+  <classes>
+<class name="Scripts.TestNG_Test_Script"></class>
+</classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
